@@ -6,7 +6,6 @@ class HomeAppBar extends AppBar {
     Key? key,
   }) : super(key: key);
 
-  @override
   Widget build(BuildContext context) {
     return AppBar(
       actions: [
